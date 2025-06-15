@@ -1,7 +1,6 @@
 # TALESPEAK  
 **_Ignite Imagination, Transform Stories into Experiences_**
 
-![Status](https://img.shields.io/badge/last_commit-today-brightgreen) ![Notebook](https://img.shields.io/badge/jupyter_notebook-100%25-blue) ![Languages](https://img.shields.io/badge/languages-1-lightblue)
 
 _Built with the tools and technologies:_  
 ![Markdown](https://img.shields.io/badge/built_with-Markdown-black)
